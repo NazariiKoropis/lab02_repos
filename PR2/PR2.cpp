@@ -6,6 +6,8 @@ int main(){
 	int a;
 
 	//comit lab21
+
+	// second commit lab21
 	std::cout << "Enter an integer: ";
 	std::cin >> a;
 
